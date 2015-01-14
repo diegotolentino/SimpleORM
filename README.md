@@ -3,6 +3,8 @@
 by Diego Tolentino
 
 =========
+This is a conceptual design and is no longer maintained.
+=========
 
 Simple ORM is a small class to implement a Active Record Design Pattern
 
